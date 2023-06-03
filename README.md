@@ -2,26 +2,26 @@
 _____________
 
 ## Resultados de Articulos
-![image](https://github.com/leidypaez/listas_diccionarios_python/blob/main/img/subject-list.png)
+![image](https://github.com/leidypaez/exercice-with-python2/blob/main/img/Articulos.png)
 
 _____________
 
 ## Resultados de Clientes
-![image](https://github.com/leidypaez/listas_diccionarios_python/blob/main/img/days.png)
+![image](https://github.com/leidypaez/exercice-with-python2/blob/main/img/Clientes.png)
 
 _____________
 
 ## Resultados de Datos usuario
-![image](https://github.com/leidypaez/listas_diccionarios_python/blob/main/img/pago_denominacion.png)
+![image](https://github.com/leidypaez/exercice-with-python2/blob/main/img/Datos_usuario.png)
 
 ______________
 
 ## Resultados de divisas
-![image](https://github.com/leidypaez/listas_diccionarios_python/blob/main/img/validation_note.png)
+![image](https://github.com/leidypaez/exercice-with-python2/blob/main/img/Divisas.png)
 
 ______________
 
 ## Resultados de frutas
-![image](https://github.com/leidypaez/listas_diccionarios_python/blob/main/img/validation_note.png)
+![image](https://github.com/leidypaez/exercice-with-python2/blob/main/img/Frutas.png)
 
 ______________
